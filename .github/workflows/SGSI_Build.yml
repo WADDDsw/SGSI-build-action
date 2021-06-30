@@ -7,7 +7,7 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://download.meizu.com/Firmware/Flyme/16s_Pro/9.21.4.29/cn_daily/20210429002119/889a2ad5/update.zip'
+  ROM_URL: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=update.zip&path=%2Fupdate.zip&filename=update.zip'
   ZIP_NAME: 'update.zip'
   OS_TYPE: 'Flyme'
   BUILD_TYPE: 'a-only'
