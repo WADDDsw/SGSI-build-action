@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=update.zip&path=%2Fupdate.zip&filename=update.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Flyme'
+  ROM_URL: 'https://bigota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip'
+  ZIP_NAME: 'MIUI.zip'
+  OS_TYPE: 'MIUI'
   BUILD_TYPE: 'a-only'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
