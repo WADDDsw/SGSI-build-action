@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/V12.0.3.0.QFGCNXM/miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip'
-  ZIP_NAME: 'miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip'
+  ROM_URL: 'https://120-220-195-1.ksyungslb.com/bigota.d.miui.com/21.4.22/miui_VIOLET_21.4.22_904fe2ee16_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F'
+  ZIP_NAME: 'miui_VIOLET_21.4.22_904fe2ee16_10.0.zip'
   OS_TYPE: 'MIUI'
   BUILD_TYPE: 'a-only'
   REPACK_NAME: 'SGSI.zip'
