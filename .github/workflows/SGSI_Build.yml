@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://120-220-195-1.ksyungslb.com/bigota.d.miui.com/21.4.22/miui_VIOLET_21.4.22_904fe2ee16_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F'
-  ZIP_NAME: 'miui_VIOLET_21.4.22_904fe2ee16_10.0.zip'
-  OS_TYPE: 'MIUI'
+  ROM_URL: 'https://bigota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip'
+  ZIP_NAME: 'miui_MI8SE_9.9.3_a9d719f08b_9.0.zip'
+  OS_TYPE: 'Complete package'
   BUILD_TYPE: 'a-only'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
